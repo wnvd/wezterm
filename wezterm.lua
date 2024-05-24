@@ -18,7 +18,7 @@ config.keys = {
 -- colorscheme (goes well with gruvbox 'trasparent mode = true')
 -- config.color_scheme = 'Oxocarbon Dark (Gogh)'
 config.colors = {
-    background = "#0a0d0f", -- subtle black
+    -- background = "#0a0d0f", -- subtle black
     cursor_bg = '#FFFF00',
     cursor_fg = 'black',
     cursor_border = '#FFFF00',
@@ -44,7 +44,7 @@ config.window_padding = {
     top = 0,
     bottom = 0,
 }
-config.font_size = 17.0
+config.font_size = 16.0
 config.cell_width = 1.00
 
 -- Some 'mono' fonts make icons in terminal look smaller.
